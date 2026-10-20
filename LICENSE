@@ -1,21 +1,42 @@
-MIT License
+PERSONAL AND NON-COMMERCIAL LICENSE (LICENCIA DE USO PERSONAL Y NO COMERCIAL)
 
-Copyright (c) 2026 Orlando Barrientos
+Copyright (c) 2026 Orlando Barrientos. All rights reserved.
+Contacto para licencias comerciales: orlandoabarrientos@gmail.com
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+--------------------------------------------------------------------------------
+TÉRMINOS Y CONDICIONES / TERMS AND CONDITIONS
+--------------------------------------------------------------------------------
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. CONCESIÓN DE LICENCIA PARA USO PERSONAL Y NO COMERCIAL:
+   Se otorga permiso a cualquier persona para descargar, compilar, utilizar,
+   modificar e inspeccionar este software y su código fuente de forma GRATUITA,
+   única y exclusivamente para:
+   a) Uso personal y privado en sus propios equipos.
+   b) Fines educativos, de investigación y evaluación técnica no comercial.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. RESTRICCIONES COMERCIALES Y DE REVENTA:
+   Queda TERMINANTEMENTE PROHIBIDO:
+   a) Vender, revender, alquilar, sublicenciar o monetizar directa o indirectamente
+      este software, sus ejecutables compilados o su código fuente.
+   b) Publicar o distribuir este software en tiendas de aplicaciones comerciales
+      (incluyendo, pero no limitado a: Microsoft Store, Steam, etc.) con fines
+      lucrativos o bajo esquemas de pago.
+   c) Empaquetar, preinstalar o distribuir este software como parte de un producto,
+      hardware o servicio comercial de pago sin autorización previa.
+
+3. LICENCIA COMERCIAL Y REGALÍAS (ROYALTIES):
+   Si cualquier empresa, fabricante de hardware, desarrollador o entidad comercial
+   desea incorporar, distribuir comercialmente o vender este software:
+   - Debe ponerse en contacto obligatorio con el autor (Orlando Barrientos)
+     a través de: orlandoabarrientos@gmail.com
+   - Se deberá pactar un Acuerdo de Licencia Comercial independiente que estipule
+     los términos legales y el pago de las regalías correspondientes.
+
+4. AVISO DE DERECHOS DE AUTOR:
+   Cualquier copia o modificación permitida para uso personal debe conservar
+   íntegramente este aviso de derechos de autor y los términos de esta licencia.
+
+5. EXENCIÓN DE RESPONSABILIDAD:
+   EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA
+   O IMPLÍCITA. EN NINGÚN CASO EL AUTOR SERÁ RESPONSABLE POR DAÑOS O PERJUICIOS
+   DERIVADOS DEL USO DE ESTE SOFTWARE.

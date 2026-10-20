@@ -104,7 +104,7 @@ MicGuardian/
 ├── .gitattributes
 ├── .gitignore
 ├── build.bat                       # Acceso directo para compilar en la raíz
-├── LICENSE                         # Licencia MIT
+├── LICENSE                         # Licencia de Uso Personal y No Comercial
 └── README.md                       # Documentación principal
 ```
 
@@ -224,8 +224,16 @@ Detendrá el proceso activo y limpiará las tareas programadas y los accesos dir
 
 ---
 
-## Licencia
+## Licencia y Términos de Uso
 
-Este proyecto está distribuido bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto se distribuye bajo una **Licencia de Uso Personal y No Comercial**. Consulta el archivo [LICENSE](LICENSE) para conocer el texto legal completo.
 
-Desarrollado por **Orlando Barrientos** (2026).
+### Resumen de Términos:
+- **Uso Personal y Educativo (Gratuito):** Eres libre de descargar, compilar, modificar e inspeccionar este software para uso propio y privado en tus dispositivos personales o para fines de aprendizaje.
+- **Uso Comercial y Reventa (Requiere Licencia y Regalías):** Queda prohibida la venta, monetización, sublicenciamiento o inclusión de este software (en binario o código fuente) en productos, servicios o tiendas de aplicaciones comerciales sin autorización previa por escrito.
+- **Contacto para Licencias Comerciales:** Si eres una empresa, fabricante de hardware o desarrollador interesado en integrar o distribuir este software comercialmente, contacta al autor para acordar los términos de licenciamiento y regalías:  
+  📫 **Orlando Barrientos** — `orlandoabarrientos@gmail.com`
+
+---
+
+Desarrollado con dedicación por **Orlando Barrientos** (2026).

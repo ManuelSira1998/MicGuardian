@@ -12,7 +12,7 @@
     <Company>Orlando Barrientos</Company>
     <Description>Servicio ligero y resiliente de supervisión y desmuteo automático del micrófono en Windows CoreAudio.</Description>
     <RepositoryUrl>https://github.com/orlandobarrientos/MicGuardian</RepositoryUrl>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
 </Project>
