@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFrameworks>net48;net472</TargetFrameworks>
+    <RootNamespace>MicGuardian</RootNamespace>
+    <AssemblyName>MicGuardian</AssemblyName>
+    <ApplicationIcon></ApplicationIcon>
+    <StartupObject>MicGuardian.Program</StartupObject>
+    <Version>1.1.0</Version>
+    <Authors>Orlando Barrientos</Authors>
+    <Company>Orlando Barrientos</Company>
+    <Description>Servicio ligero y resiliente de supervisión y desmuteo automático del micrófono en Windows CoreAudio.</Description>
+    <RepositoryUrl>https://github.com/orlandobarrientos/MicGuardian</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>

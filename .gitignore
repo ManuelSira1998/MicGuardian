@@ -1,0 +1,26 @@
+# Binarios y carpetas de compilación
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Excepción para el binario de distribución en la raíz si se desea versionar
+!MicGuardian.exe
+
+# Archivos de usuario y entorno
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs de depuración locales
+*.log
+*.log.old
+.vs/
+.vscode/
+.idea/
+
+# Carpetas temporales
+TestResults/
+[Bb]uild/
